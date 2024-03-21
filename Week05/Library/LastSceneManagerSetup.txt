@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Command Pattern Examples/Example - 01/Scenes/Example - 01 - TurnBased.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
